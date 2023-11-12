@@ -1,0 +1,22 @@
+{
+    "Place": "St Sarkis",
+    "Site": "",
+    "Khachkars": [
+        {
+            "ImageUrl": "https://www.armenica.org/collection/khatchkar/St Sarkis-Bjni/bjni-sarkis-kk01-svn.jpg",
+            "Name": "Khatchkar",
+            "Location": "St Sarkis (Bjni)",
+            "Sculptor": "",
+            "Date": "",
+            "Source": "Armenica"
+        },
+        {
+            "ImageUrl": "https://www.armenica.org/collection/khatchkar/St Sarkis-Bjni/bjni-sarkis-kk02-svn.jpg",
+            "Name": "Khatchkar",
+            "Location": "St Sarkis (Bjni)",
+            "Sculptor": "",
+            "Date": "",
+            "Source": "Armenica"
+        }
+    ]
+}
